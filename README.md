@@ -15,7 +15,38 @@ Enterprise asset management solution built using:
 - Reporting
 - Lifecycle management
 
+## The product
+<img width="1653" height="903" alt="image" src="https://github.com/user-attachments/assets/9feeef0a-d283-4d29-ab71-fdd3d50502b9" />
+
+<img width="1596" height="820" alt="image" src="https://github.com/user-attachments/assets/ff456844-40ec-41fd-8764-0cc904e92908" />
+
+<img width="1446" height="852" alt="image" src="https://github.com/user-attachments/assets/fea80753-82b9-4d31-9378-5b3b5e9c2689" />
+
+<img width="1315" height="521" alt="image" src="https://github.com/user-attachments/assets/daea5203-0e18-45ff-a644-d20b3cc9f7cd" />
+
+<img width="1634" height="280" alt="image" src="https://github.com/user-attachments/assets/545bfe5f-1822-46f0-9dc1-45e868f9aeaf" />
+
+<img width="1264" height="892" alt="image" src="https://github.com/user-attachments/assets/80c37763-31c7-4059-a8a4-acfdee824a77" />
+
+<img width="1302" height="613" alt="image" src="https://github.com/user-attachments/assets/3614c982-0442-465b-ae99-45dd78c0ceb1" />
+
+<img width="1402" height="809" alt="image" src="https://github.com/user-attachments/assets/f11a2f62-c0f9-479f-b633-482f508c84be" />
+
+<img width="1254" height="945" alt="image" src="https://github.com/user-attachments/assets/d0ec2335-769f-4e8e-800f-b5061f2dfe0b" />
+
+
+## How do we get there##
+
 ## Application and System Requirements
+
+## Create asset field and tables in Zendesk to store and capture assets
+ - Add the required field needed to capture your assets. This will be stored in the Zendesk database
+<img width="1618" height="857" alt="image" src="https://github.com/user-attachments/assets/71a368c2-00e4-4219-9de9-6ba90b5a1ae5" />
+
+- Create an API token to authenticate to Zendesk to access its REST api's 
+  <img width="1525" height="338" alt="image" src="https://github.com/user-attachments/assets/67ea3046-6b3f-4a60-9d06-30fb50ae7660" />
+
+
 ## PHP Scripts:
 - Frontend: Index and htaccess File
 
@@ -77,8 +108,10 @@ Enterprise asset management solution built using:
 - Now deploy code to the httpd directory where Apache is pointing to
 <img width="1165" height="338" alt="image" src="https://github.com/user-attachments/assets/97e7fa66-edf8-4fee-9ae1-af3ffe9322da" />
 
-## Create asset field and tables in Zendesk to store and capture assets
- 
+
+
+
+
 
 
 
