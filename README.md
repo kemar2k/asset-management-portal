@@ -87,7 +87,7 @@ Enterprise asset management solution built using:
 - Don't forget to capture the secret and key value to securely connect the new asset management app to your MS tenant
   <img width="1104" height="387" alt="image" src="https://github.com/user-attachments/assets/f118e971-9e1b-49b8-ac0a-b3a4dfe012cf" />
 
-## Configuring the Azure Web to host the new app
+## Configuring the Azure Linux Web APP to host the new app
 - Create a new resource group to host services needed to run the new PHP app
 <img width="1107" height="539" alt="image" src="https://github.com/user-attachments/assets/870595f9-6fcf-4d46-b101-af0d5b1479c4" />
 
