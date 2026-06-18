@@ -35,11 +35,10 @@ Enterprise asset management solution built using:
 <img width="1254" height="945" alt="image" src="https://github.com/user-attachments/assets/d0ec2335-769f-4e8e-800f-b5061f2dfe0b" />
 
 
-## How do we get there
 
-## Application and System Requirements:
+## Application and System Requirements
 
-## Create asset field and tables in Zendesk to store and capture assets
+## Create asset field and tables in Zendesk to store and capture assets:
  - Add the required field needed to capture your assets. This will be stored in the Zendesk database
 <img width="1618" height="857" alt="image" src="https://github.com/user-attachments/assets/71a368c2-00e4-4219-9de9-6ba90b5a1ae5" />
 
